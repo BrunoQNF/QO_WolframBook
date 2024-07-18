@@ -1,7 +1,9 @@
 # QO_WolframBook
-Draft for educational content in Quantum Optics
+Draft for educational content in Quantum Optics (aiming for a complete tutorial or book)
 ## Contents
--Atomic Transitions
--Beam splitters and interferometry
--Non classical light and quadratures
--Dissipation and decoherence
+* Field quantization
+* Coherent states
+* Atomic Transitions
+* Beam splitters and interferometry
+* Non classical light and quadratures
+* Dissipation and decoherence
