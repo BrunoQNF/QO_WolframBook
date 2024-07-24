@@ -3,7 +3,7 @@ Draft for educational content in Quantum Optics (aiming for a complete tutorial 
 ## Contents
 * Field quantization
 * Coherent states
-* Atomic Transitions
+* Atom-field interactions (theory of absorption and emission)
 * Beam splitters and interferometry
 * Non classical light and quadratures
 * Dissipation and decoherence
